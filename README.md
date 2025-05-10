@@ -3,7 +3,22 @@ In order to document and track my progression through studying Deep Learning, I'
 
 Thank you for your time and attention.
 
-## 🇫🇷
-Comme j'apprends le français, et afin que je puisse documenter mon rêve, j'ai créé ce GitHub bilingue pour lister toutes mes échecs et victoires, mes expériences et résultats au cours de l'année. Alors, J'espere que j'apprendrai beaucoup et que je ferai de progres. Je désire que vous puissiez suivre mon voyage de manière légère et facile. Dites-moi si je fais des erreurs en français, et ne vous inquiétez pas de me corriger, car j’irai à Paris en juin, et pendant tout l’été, j’y étudierai la langue. Je souhaite m’améliorer. Enfin, le but de mes études est d’inventer une nouvelle technologie incroyable, qui pourrait peut-être changer la vie des hommes.
+Here is a table I generated using GPT that captures the complexity of building each model by hand. It also functions as a checklist, with the data under Completed being the day I finished the implementation of the model, and underlined example models being the ones I concretely implemented. Of course, I do not expect to be anywhere near building all of these by hand by the end of the summer, but I hope to have at least gone through a significant portion of this checklist. Moreover, every built model is accompanied with a corresponding project that demonstrates its capicity and performance against library models. Finally, some projects will have two models if the task for which I am building them is very similar (for example, a clustering unsupervised learning task will have both the clustering and expectation-maximization algorithms implemented). Feel free to copy the table for your own projects.
 
-Je vous remercie pour votre attention.
+| Rank  | Model Type | Example Models | Complexity | Completed? |  
+| ------------- | ------------- | ------------  | ------------- | -
+| 1 | Linear Models  | <ins>Linear Regression, LASSO, Ridge Regression and Logistic Regression</ins> | 🟢 Easiest  | ✔️07/05/2025 |
+| 2 | Instance-Based | <ins>KNN</ins>  | 🟢 Easy | ✔️09/05/2025 |
+| 3 | Probabilistic | Naive Bayes | 🟢 Easy  |  | 
+| 4 | Dimensionality Reduction | PCA | 🟢 Easy  |  | 
+| 5 | Clustering  | K-Means | 🟢–🟠 Easy-Med |  | 
+| 6 | Probabilistic Clustering  | Expectation-Maximization | 🟠 Medium |  | 
+| 7 | Tree-Based | Decision Trees | 🟠 Medium  |  | 
+| 8 | Margin-Based  | SVM | 🟠–🔴 Medium-Hard  |  | 
+| 9 | Ensemble  | Random Forest, XGBoost | 🔴 Hard  |  | 
+| 10 | Neural Netorks  | Shallow NN | 🟠 Medium  |  | 
+| 11 | CNNS  | Vanilla CNN, LeNet, VGG| 🔴 Hard  |  | 
+| 12 | RNNs  | Vanille RNN | 🔴 Hard  |  | 
+| 13 | LSTM/GRU  | Seq2Seq | 🔴–🚨 Hard-Very Hard  |  | 
+| 14 | Transformer  | Vanilla Transformer, BERT, GPT | 🚨 Very Hard  |  | 
+| 15 | LLM  | GPT-3, PaLM | 🧠 Expert-only |  | 
