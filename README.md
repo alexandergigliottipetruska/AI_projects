@@ -14,7 +14,7 @@ Here is a table I generated using GPT that captures the complexity of building e
 | 7 | Tree-Based | Decision Trees | 🟠 Medium  |  | 
 | 8 | Margin-Based  | SVM | 🟠–🔴 Medium-Hard  |  | 
 | 9 | Ensemble  | Random Forest, XGBoost | 🔴 Hard  |  | 
-| 10 | Neural Netorks  | Shallow NN | 🟠 Medium  |  | 
+| 10 | Neural Networks  | Shallow NN | 🟠 Medium  |  | 
 | 11 | CNNs  | Vanilla CNN, LeNet, VGG| 🔴 Hard  |  | 
 | 12 | RNNs  | Vanilla RNN | 🔴 Hard  |  | 
 | 13 | LSTM/GRU  | Seq2Seq | 🔴–🚨 Hard-Very Hard  |  | 
