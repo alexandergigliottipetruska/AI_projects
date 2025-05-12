@@ -1,1 +1,1 @@
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandergigliottipetruska/AI_projects/blob/main/deep_learning/neural_network/5_neural_network_fashion_mnist.ipynb)
