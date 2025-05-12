@@ -9,7 +9,7 @@ Here is a table I generated using GPT that captures the complexity of building e
 | 2 | Instance-Based | <ins>KNN</ins>  | 🟢 Easy | ✔️09/05/2025 |
 | 3 | Probabilistic | Naive Bayes | 🟢 Easy  |  | 
 | 4 | Dimensionality Reduction | PCA | 🟢 Easy  |  | 
-| 5 | Clustering  | K-Means | 🟢–🟠 Easy-Med |  | 
+| 5 | Clustering  | K-Means | 🟢–🟠 Easy-Med | ✔️12/05/2025 | 
 | 6 | Probabilistic Clustering  | Expectation-Maximization | 🟠 Medium |  | 
 | 7 | Tree-Based | Decision Trees | 🟠 Medium  |  | 
 | 8 | Margin-Based  | SVM | 🟠–🔴 Medium-Hard  |  | 
