@@ -8,13 +8,13 @@ Here is a table I generated using GPT that captures the complexity of building e
 | 1 | Linear Models  | <ins>Linear Regression, LASSO, Ridge Regression and Logistic Regression</ins> | 🟢 Easiest  | ✔️07/05/2025 |
 | 2 | Instance-Based | <ins>KNN</ins>  | 🟢 Easy | ✔️09/05/2025 |
 | 3 | Probabilistic | Naive Bayes | 🟢 Easy  |  | 
-| 4 | Dimensionality Reduction | PCA | 🟢 Easy  | WIP | 
+| 4 | Dimensionality Reduction | PCA | 🟢 Easy  | Current focus | 
 | 5 | Clustering  | <ins>K-Means</ins> | 🟢–🟠 Easy-Med | ✔️12/05/2025 | 
 | 6 | Probabilistic Clustering  | Expectation-Maximization | 🟠 Medium |  | 
 | 7 | Tree-Based | Decision Trees | 🟠 Medium  | On pause | 
 | 8 | Margin-Based  | SVM | 🟠–🔴 Medium-Hard  |  | 
 | 9 | Ensemble  | Random Forest, XGBoost | 🔴 Hard  |  | 
-| 10 | Neural Networks  | Shallow NN | 🟠 Medium  | WIP | 
+| 10 | Neural Networks  | Shallow NN | 🟠 Medium  | Current focus | 
 | 11 | CNNs  | Vanilla CNN, LeNet, VGG| 🔴 Hard  |  | 
 | 12 | RNNs  | Vanilla RNN | 🔴 Hard  |  | 
 | 13 | LSTM/GRU  | Seq2Seq | 🔴–🚨 Hard-Very Hard  |  | 
