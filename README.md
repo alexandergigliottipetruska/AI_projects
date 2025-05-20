@@ -15,7 +15,7 @@ Here is a table I generated using GPT that captures the complexity of building e
 | 8 | Margin-Based  | SVM | 🟠–🔴 Medium-Hard  |  | 
 | 9 | Ensemble  | Random Forest, XGBoost | 🔴 Hard  |  | 
 | 10 | Neural Networks  | <ins>Shallow NN</ins> | 🟠 Medium  | ✔️18/05/2025 | 
-| 11 | CNNs  | Vanilla CNN, LeNet, VGG| 🔴 Hard  | Starting soon (22/05/2025) | 
+| 11 | CNNs  | Vanilla CNN, LeNet, VGG| 🔴 Hard  | Current focus | 
 | 12 | RNNs  | Vanilla RNN | 🔴 Hard  |  | 
 | 13 | LSTM/GRU  | Seq2Seq | 🔴–🚨 Hard-Very Hard  |  | 
 | 14 | Transformer  | Vanilla Transformer, BERT, GPT | 🚨 Very Hard  |  | 
