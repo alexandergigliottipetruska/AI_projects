@@ -8,7 +8,7 @@ Models:
 - Instance-Based - <ins>KNN</ins>
 - Clustering - <ins>K-Means</ins>
 - Neural Networks <ins>Shallow NN</ins> 
-- Recurrent Neural Network <ins>Vanilla RNN</ins>
+- Recurrent Neural Network <ins>Vanilla RNN</ins> (NOT YET! NEEDS TO BE FIXED)
 - Convolutional Neural Network - ?
 - LSTM - ?
 - Transformer - ? 
