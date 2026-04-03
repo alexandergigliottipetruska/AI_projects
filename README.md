@@ -7,9 +7,9 @@ Models:
 - Linear Models - <ins>Linear Regression, LASSO, Ridge, and Logistic Regression</ins>
 - Instance-Based - <ins>KNN</ins>
 - Clustering - <ins>K-Means</ins>
-- Dimensionality Reduction - Principal Component Analysis (PCA)
+- Dimensionality Reduction - <ins>Principal Component Analysis (PCA)</ins>
 - Neural Networks <ins>Shallow NN</ins>
-- Recurrent Neural Network <ins>Vanilla RNN</ins> (NOT YET! NEEDS TO BE FIXED)
+- Recurrent Neural Network Vanilla RNN (NEEDS TO BE FIXED)
 - Convolutional Neural Network - ?
 - LSTM - ?
 - Transformer - ? 
