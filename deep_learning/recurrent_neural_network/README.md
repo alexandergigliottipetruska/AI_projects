@@ -58,8 +58,8 @@ Vanishing gradients occur when gradients shrink exponentially as they are backpr
 ---
 
 ## Notes
-- This is a **non-modular** implementation — the full forward and backward pass is implemented directly without abstractions
-- Vanilla RNNs are sensitive to sequence length due to vanishing gradients — performance degrades significantly for long sequences
+- This is a **non-modular** implementation, the full forward and backward pass is implemented directly without abstractions
+- Vanilla RNNs are sensitive to sequence length due to vanishing gradients so the performance degrades significantly for long sequences
 - Gated architectures such as **LSTMs** and **GRUs** were designed specifically to address vanishing gradients by controlling the flow of information through learnable gates
 - This implementation uses **MSE loss**, suited for sequence prediction tasks
 - Time complexity per forward pass: $O(T \cdot H^2)$ where $T$ is sequence length and $H$ is hidden size, dominated by the recurrent weight multiplication $W_{hh}$
