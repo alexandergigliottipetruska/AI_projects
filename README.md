@@ -6,6 +6,7 @@ For many models, numpy is used, but it becomes infeasible for larger architectur
 Models: 
 - Linear Models - <ins>Linear Regression, LASSO, Ridge, and Logistic Regression</ins>
 - Instance-Based - <ins>KNN</ins>
+- Ensemeble Methods - Decision Trees
 - Clustering - <ins>K-Means</ins>
 - Dimensionality Reduction - <ins>Principal Component Analysis (PCA)</ins>
 - Neural Networks <ins>Shallow NN</ins>
