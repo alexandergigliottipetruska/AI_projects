@@ -9,8 +9,8 @@ Models:
 - Ensemeble Methods - Decision Trees
 - Clustering - <ins>K-Means</ins>
 - Dimensionality Reduction - <ins>Principal Component Analysis (PCA)</ins>
-- Neural Networks <ins>Shallow NN</ins>
-- Recurrent Neural Network Vanilla RNN (NEEDS TO BE FIXED)
+- Neural Networks - <ins>Shallow NN</ins>
+- Recurrent Neural Network - Vanilla RNN (NEEDS TO BE FIXED)
 - Convolutional Neural Network - ?
 - LSTM - ?
 - Transformer - ? 
