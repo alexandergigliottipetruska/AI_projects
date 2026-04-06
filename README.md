@@ -13,9 +13,7 @@ Models:
 - Recurrent Neural Network - <ins>Vanilla RNN</ins>
 - Convolutional Neural Network - ?
 - LSTM - ?
-- Transformer - ? 
-- Bidirectional Transformer (BERT) - ? currently working on
-- GPT-2 - ? 
+- Transformer - GPT-2, Bidirectional Transformer (BERT)
 - Stable Diffusion - ? 
 - Multimodal - ? 
 
