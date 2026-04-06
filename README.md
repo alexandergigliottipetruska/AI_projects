@@ -10,7 +10,7 @@ Models:
 - Clustering - <ins>K-Means</ins>
 - Dimensionality Reduction - <ins>Principal Component Analysis (PCA)</ins>
 - Neural Networks - <ins>Shallow NN</ins>
-- Recurrent Neural Network - Vanilla RNN (NEEDS TO BE FIXED)
+- Recurrent Neural Network - <ins>Vanilla RNN</ins>
 - Convolutional Neural Network - ?
 - LSTM - ?
 - Transformer - ? 
