@@ -14,7 +14,7 @@ Models:
 - Convolutional Neural Network - ?
 - LSTM - ?
 - Transformer - GPT-2, Bidirectional Transformer (BERT)
-- Stable Diffusion - ? 
+- Latent Diffusion - 
 - Multimodal - ? 
 
 
