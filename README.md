@@ -10,7 +10,7 @@ Models:
 - Clustering - <ins>K-Means</ins>
 - Dimensionality Reduction - <ins>Principal Component Analysis (PCA)</ins>
 - Neural Networks - <ins>Shallow NN</ins>
-- Recurrent Neural Network - <ins>Vanilla RNN</ins>, LSTM
+- Recurrent Neural Network - <ins>Vanilla RNN</ins>, <ins>LSTM</ins>
 - Convolutional Neural Network - Vanilla CNN, ResNet
 - Transformer - GPT-2, Bidirectional Transformer (BERT)
 - Latent Diffusion - 
